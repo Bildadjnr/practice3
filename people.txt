@@ -1,1 +1,4 @@
 developers key interest
+
+how to navigate the tool bar
+linking a local repo with remote repo 
